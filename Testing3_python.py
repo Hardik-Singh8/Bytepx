@@ -1,0 +1,5 @@
+print("hi everbody")
+print("hello priyanshu bhaiya")
+print("hi")
+print("hi2")
+print("hi3")
